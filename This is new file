@@ -20,7 +20,7 @@ Usage: git add [file]
 This command adds a file to the staging area.
 
 Git Add Command - Git Commands - Edureka
-
+test
 Usage: git add *  
 
 This command adds one or more to the staging area.
